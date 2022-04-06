@@ -1,0 +1,16 @@
+C:\Users\El-Elohim\Desktop\Wella\week1\bin\Debug\net5.0\week1.exe
+C:\Users\El-Elohim\Desktop\Wella\week1\bin\Debug\net5.0\week1.deps.json
+C:\Users\El-Elohim\Desktop\Wella\week1\bin\Debug\net5.0\week1.runtimeconfig.json
+C:\Users\El-Elohim\Desktop\Wella\week1\bin\Debug\net5.0\week1.runtimeconfig.dev.json
+C:\Users\El-Elohim\Desktop\Wella\week1\bin\Debug\net5.0\week1.dll
+C:\Users\El-Elohim\Desktop\Wella\week1\bin\Debug\net5.0\ref\week1.dll
+C:\Users\El-Elohim\Desktop\Wella\week1\bin\Debug\net5.0\week1.pdb
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.csproj.AssemblyReference.cache
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.AssemblyInfoInputs.cache
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.AssemblyInfo.cs
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.csproj.CoreCompileInputs.cache
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.dll
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\ref\week1.dll
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.pdb
+C:\Users\El-Elohim\Desktop\Wella\week1\obj\Debug\net5.0\week1.genruntimeconfig.cache
